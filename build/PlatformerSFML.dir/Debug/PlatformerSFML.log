@@ -1,0 +1,31 @@
+﻿  Game.cpp
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(35,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(270,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(877,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(878,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(902,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(904,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(928,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(929,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(954,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(956,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(981,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(983,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(998,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1000,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1014,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1016,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1030,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1032,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1052,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1057,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1071,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1074,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1088,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1093,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1112,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1117,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp(1615,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+LINK : warning LNK4044: unrecognized option '/static'; ignored
+  PlatformerSFML.vcxproj -> C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\build\Debug\PlatformerSFML.exe

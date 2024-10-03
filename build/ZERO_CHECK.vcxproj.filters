@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\build\CMakeFiles\2f14bcdf78c278484eeb2f7dbf928fde\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F11180BE-EADF-342B-A6DC-19B110A91F7C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

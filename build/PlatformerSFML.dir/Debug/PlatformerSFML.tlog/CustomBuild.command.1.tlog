@@ -1,0 +1,10 @@
+^C:\USERS\ETHAN\DOCUMENTS\WORK\GITHUB\PLATFORMER-23-24-ETHANEKSTEEN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ethan/Documents/Work/Github/platformer-23-24-EthanEksteen -BC:/Users/ethan/Documents/Work/Github/platformer-23-24-EthanEksteen/build --check-stamp-file C:/Users/ethan/Documents/Work/Github/platformer-23-24-EthanEksteen/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

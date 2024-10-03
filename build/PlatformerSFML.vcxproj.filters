@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Vector2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Dynamic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\src\Dynamic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ethan\Documents\Work\Github\platformer-23-24-EthanEksteen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{15830BA3-4EB2-341E-B61E-9FB4977CE2D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1BC21DF6-FD57-3E6A-A5F8-89D5264E45CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
